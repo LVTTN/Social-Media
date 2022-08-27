@@ -950,6 +950,7 @@ const HomepagePage = () => {
               </Row>
             </Column>
           </footer>
+            <script async id="slcLiveChat" src="https://widget.sonetel.com/SonetelWidget.min.js" data-account-id="207655892"></script>
         </Column>
       </Column>
     </>
